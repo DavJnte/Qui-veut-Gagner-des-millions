@@ -1,0 +1,466 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Dans quel jeu pour enfants les participants sont-ils poursuivis par quelqu'un désigné \"C'est\"?",
+		            "content" : [
+		                "Chat",
+		                "Simon dit",
+		                "Charades",
+		                "Marelle"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Sur une radio, les stations sont changées en utilisant quel contrôle?",
+		            "content" : [
+		                "Réglage",
+		                "Volume",
+		                "Basse",
+		                "Aigu"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Quel matériau est le plus dense?",
+		            "content" : [
+		                "Argent",
+		                "Polystyrène",
+		                "Beurre",
+		                "Or"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Quel État des États-Unis est le plus grand par sa superficie?",
+		            "content" : [
+		                "Alaska",
+		                "Californie",
+		                "Texas",
+		                "Hawaï"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Comment est communément connue l'Aurore Boréale?",
+		            "content" : [
+		                "Poussière de fée",
+		                "Aurores boréales",
+		                "Livre des âges",
+		                "Un personnage principal de Game of Thrones"
+		            ],
+		            "correct" : 1
+		        },
+				{
+				    "correct": 3,
+				    "content": [
+				        "a développé le télescope",
+				        "a découvert quatre satellites de Jupiter",
+				        "a découvert que le mouvement du pendule produit une mesure de temps régulière",
+				        "Toutes les réponses ci-dessus"
+				    ],
+				    "question": "Galilée était un astronome italien qui"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "la lumière infrarouge tue les bactéries dans le corps",
+				        "la résistance augmente",
+				        "les cellules de pigment dans la peau sont stimulées et produisent un bronzage sain",
+				        "les rayons ultraviolets convertissent l'huile de la peau en vitamine D"
+				    ],
+				    "question": "L'exposition au soleil aide une personne à améliorer sa santé car"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "un club ou une association sportive locale pour des réalisations remarquables",
+				        "athlète amateur, pas nécessairement un olympien",
+				        "Comité olympique national pour un travail exceptionnel",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "La Coupe Sir Thomas Fearnley est décernée à"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "1968",
+				        "1929",
+				        "1901",
+				        "1965"
+				    ],
+				    "question": "Les prix Oscar ont été institués en"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "1998",
+				        "1989",
+				        "1979",
+				        "1800"
+				    ],
+				    "question": "Quand Margaret Thatcher est-elle devenue la première femme Premier ministre de Grande-Bretagne?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "15 avril",
+				        "12 décembre",
+				        "1er mai",
+				        "1er août"
+				    ],
+				    "question": "Quand est le Jour international des travailleurs?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "1962",
+				        "1963",
+				        "1964",
+				        "1965"
+				    ],
+				    "question": "Quand la Chine a-t-elle testé son premier dispositif atomique?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "1904",
+				        "1905",
+				        "1908",
+				        "1909"
+				    ],
+				    "question": "Quand le commandant Robert Peary a-t-il découvert le pôle Nord?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "819 / km²",
+				        "602 / km²",
+				        "415 / km²",
+				        "500 / km²"
+				    ],
+				    "question": "Quelle est la densité de population du Kerala?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "4 km",
+				        "25 km",
+				        "500 m à 9 km",
+				        "150 km"
+				    ],
+				    "question": "Quelle est la portée du missile 'Akash'?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Aux États-Unis, si ce n'est pas l'heure d'été, c'est quoi?",
+		            "content" : [
+		                "Temps emprunté",
+		                "Heures supplémentaires",
+		                "Heure standard",
+		                "Temps de fête"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Sur quelle partie du corps êtes-vous le plus susceptible de vous \"heurter\"?",
+		            "content" : [
+		                "Orteil",
+		                "Genou",
+		                "Coude",
+		                "Cerveau"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Quel pays est le plus grand par sa superficie?",
+		            "content" : [
+		                "Royaume-Uni",
+		                "États-Unis",
+		                "Russie",
+		                "Chine"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Que signifie le \"F\" dans FBI?",
+		            "content" : [
+		                "Étranger",
+		                "Fédéral",
+		                "Fouetté",
+		                "Visage"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Les États-Unis ont déclaré la guerre à quel pays après le bombardement de Pearl Harbor?",
+		            "content" : [
+		                "Japon",
+		                "Russie",
+		                "Allemagne",
+		                "Chine"
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 0,
+				    "content": [
+				        "Lettre de crédit (L/C)",
+				        "laissezfaire",
+				        "inflation",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "Une garantie pour un exportateur que l'importateur de ses marchandises paiera immédiatement les marchandises qu'il a commandées, est connue sous le nom de"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "lumière visible",
+				        "rayonnement infrarouge",
+				        "rayons X et rayons gamma",
+				        "Rayonnement ultraviolet"
+				    ],
+				    "question": "La couche d'ozone restreint"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "le premier pèlerin bouddhiste de Chine à visiter l'Inde pendant le règne de Chandragupta Vikramaditya",
+				        "le découvreur de Puerto Rico et de la Jamaïque",
+				        "le premier pèlerin bouddhiste de l'Inde à visiter la Chine",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "Fa-Hien était"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Harvard",
+				        "Université de Washington",
+				        "Yale",
+				        "Oxford"
+				    ],
+				    "question": "Quelle a été la première université aux États-Unis"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "La quantité d'énergie nécessaire pour déplacer un électron à travers une différence de potentiel de 1 volt",
+				        "Le nombre de volts nécessaires pour déplacer un électron d'un mètre",
+				        "Le nombre d'électrons nécessaires pour tuer un être humain",
+				        "Le flux de courant à travers une surface parallèle à un condensateur"
+				    ],
+				    "question": "Un électronvolt est"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "14 novembre",
+				        "11 décembre",
+				        "15 octobre",
+				        "1er juillet"
+				    ],
+				    "question": "Quand est la Journée mondiale du diabète?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Kelvin",
+				        "Celsius",
+				        "Centigrade",
+				        "Fahrenheit"
+				    ],
+				    "question": "Quelle est l'unité du S.I. de température?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "21 juillet 1969",
+				        "21 juillet 1970",
+				        "21 juillet 1963",
+				        "21 juillet 1972"
+				    ],
+				    "question": "Quand les astronautes américains Neil Armstrong et Edwin E. Aldrin ont-ils atterri sur la lune?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "la densité du lait augmente",
+				        "la densité du lait diminue",
+				        "la densité du lait reste inchangée",
+				        "il devient plus visqueux"
+				    ],
+				    "question": "Lorsque la crème est séparée du lait"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "1999",
+				        "1989",
+				        "1979",
+				        "1969"
+				    ],
+				    "question": "Quand 19 membres de l'OTAN et 11 'Partenaires pour la paix' se sont-ils unis pour un plan de paix pour la crise du Kosovo?"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "Quel genre d'animal vit traditionnellement dans une porcherie?",
+		            "content" : [
+		                "Vache",
+		                "Cochon",
+		                "Renard",
+		                "Adolescent"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "L'EPA encourage les gens à produire moins de déchets en s'engageant dans des efforts pour réduire, réutiliser et quoi d'autre?",
+		            "content" : [
+		                "Recycler",
+		                "Réenvelopper",
+		                "Reposséder",
+		                "Prendre sa retraite"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Quel est le deuxième gaz le plus commun dans l'air?",
+		            "content" : [
+		                "Azote",
+		                "Oxygène",
+		                "Eau",
+		                "Hélium"
+		            ],
+		            "correct" : 1
+		        },
+		        {
+		            "question" : "Quel mois a seulement 28 jours (sauf s'il s'agit d'une année bissextile)?",
+		            "content" : [
+		                "Mars",
+		                "Septembre",
+		                "Juin",
+		                "Février"
+		            ],
+		            "correct" : 3
+		        },
+				{
+				    "correct": 1,
+				    "content": [
+				        "donner",
+				        "prouver",
+				        "les deux",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "Pythagore a été le premier à ____ la validité universelle du théorème géométrique."
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "George Washington",
+				        "Bill Clinton",
+				        "George Bush",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "Le général américain qui a dirigé la révolte contre les Britanniques et a déclaré l'indépendance américaine était"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "1986 à Athènes",
+				        "1988 à Séoul",
+				        "1924 à St. Louis",
+				        "1908 à Londres"
+				    ],
+				    "question": "Quand et où l'haltérophilie a-t-elle été introduite aux Jeux olympiques?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Junagarh, Gujarat",
+				        "Diphu, Assam",
+				        "Kohima, Nagaland",
+				        "Gangtok, Sikkim"
+				    ],
+				    "question": "Le sanctuaire de Garampani est situé à"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "déclare que personne ne peut être emprisonné sans un mandat ou un mandat indiquant l'accusation portée contre lui",
+				        "fournit des installations à un prisonnier pour obtenir soit un procès rapide, soit une libération sous caution",
+				        "protège les libertés personnelles du peuple contre l'emprisonnement arbitraire par les ordres du roi",
+				        "Tout ce qui précède"
+				    ],
+				    "question": "La loi sur l'habeas corpus de 1679"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "1960",
+				        "1961",
+				        "1962",
+				        "1963"
+				    ],
+				    "question": "Quand Yuri Alekseyevich Gagarine de Russie, le premier homme à atteindre l'espace, a-t-il atteint l'espace?"
+				},
+		        {
+		            "question" : "Quelles sont les dimensions du papier A4?",
+		            "content" : [
+		                "8,3\" x 11,7\"",
+		                "8,5\" x 11\"",
+		                "30cm x 50cm",
+		                "8,5\" x 14\""
+		            ],
+		            "correct" : 0
+		        },
+				{
+				    "correct": 2,
+				    "content": [
+				        "énergie",
+				        "vitesse",
+				        "distance",
+				        "intensité"
+				    ],
+				    "question": "L'année-lumière est liée à"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "un type d'actif qui est en espèces sur le compte courant de la banque commerciale",
+				        "un type d'actif qui se présente sous forme de dépôt sur le compte courant de la banque commerciale",
+				        "l'un ou l'autre de ces éléments",
+				        "Aucune des réponses ci-dessus"
+				    ],
+				    "question": "Un actif liquide est"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "plus grand aéroport",
+				        "plus haut aéroport",
+				        "aéroport le plus bas",
+				        "aéroport le plus fréquenté"
+				    ],
+				    "question": "L'aéroport de Lhassa au Tibet est le"
+				},
+				{
+				    "correct": 2,
+				    "content" : [
+				        "Éthiopie",
+				        "Nigéria",
+				        "Zambie",
+				        "Tchad"
+				    ],
+				    "question": "Lequel de ces pays africains est situé au sud de l'équateur?"
+				}
+		    ]
+		}
+	]
+}
